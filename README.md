@@ -1,4 +1,4 @@
-<h1 align="center">Books</h1>
+<h1 align="center"><img src="zlibrary_logo.png" height="100"/></h1>
 
 This repository contains a list of books related to Software Engineering that I have read and found useful. I have included links to the [Amazon Kindle Store](https://www.amazon.com/Kindle-Store/b?ie=UTF8&node=133140011) and [Z-Library](https://zlibrary-global.se/) which has a lot of the books on Amazon and allows registered users to download eBooks. 
 
